@@ -1,0 +1,40 @@
+﻿<NavigationWindow x:Name="Recursion" x:Class="pos_logic_recursion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pos_logic_recursion"
+        mc:Ignorable="d"
+        Title="RecursionProgram" Height="700" Width="960" Source="RecursionProgramHome.xaml"  
+                >
+    <!--<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        
+    <Grid Grid.Column="0">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Padding="5"  Grid.Row="0" Grid.Column="0" Name="cb_label">Choose Recursion</Label>
+        <ComboBox Grid.Row="0" Grid.Column="1" Name="cb" Width="100" Height="20" ToolTip="choose recursion">
+            <ComboBoxItem>Option 1</ComboBoxItem>
+            <ComboBoxItem>Option 2</ComboBoxItem>
+        </ComboBox>
+
+    </Grid>
+
+
+    </Grid>
+    -->
+</NavigationWindow>
